@@ -1,2 +1,2 @@
 # MASTER-GIT
-Belajar Git
+Belajar Git dan meremote dari lokal
